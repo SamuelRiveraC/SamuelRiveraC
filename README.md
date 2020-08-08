@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_headline.png" alt="Hero image">
+<img src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_headline.png" alt="headline">
 
 ### Hi there 👋
 
@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://www.samuelriverac.com/">
+		<img alt="Website" src="https://img.shields.io/badge/samuelriverac.com-b12025?style=flat-square&logo=google-chrome">
+	</a>
+	<a href="https://www.linkedin.com/in/samuelriverac/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/SamuelRiveraC-b12025?style=flat-square&logo=linkedin">
+	</a>
+	<a href="https://www.instagram.com/riverasr/">
+		<img alt="Instagram" src="https://img.shields.io/badge/riverasr-b12025?style=flat-square&logo=instagram">
+	</a>
+	<a href="mailto:contact@samuelriverac.com">
+		<img alt="Email" src="https://img.shields.io/badge/contact@samuelriverac.com-b12025?style=flat-square&logo=gmail">
+	</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_footer.png" alt="footer">
