@@ -19,7 +19,7 @@ I am a Computer Systems Engineer working as an Freelance Fullstack Web Developer
 		<img alt="Website" src="https://img.shields.io/badge/www.samuelriverac.com-b12025?style=flat-square&logo=google-chrome&logoColor=white">
 	</a>
 	<a href="https://www.linkedin.com/in/samuelriverac/">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SamuelRiveraC-b12025?style=flat-square&logo=linkedin&logoColor=white">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/SamuelRiveraC-b12025?style=flat-square&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://www.instagram.com/riverasr/">
 		<img alt="Instagram" src="https://img.shields.io/badge/riverasr-b12025?style=flat-square&logo=instagram&logoColor=white">
