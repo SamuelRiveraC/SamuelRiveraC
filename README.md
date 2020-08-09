@@ -20,8 +20,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - <a href="https://consiglidiunavvocato.it/">An Italian law blog</a> (Maintenance and WP plugin development)
 - A project with a friend (No brand yet!)
 
-### 💬 Ask me about ...
-- About history and philosophy
 ### 📖 What am currently learning ...
 - More advanced topics with React
 - Tensorflow (AI is interasting and useful!)
@@ -29,10 +27,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 🤔 I’m looking for help with ...
 - Getting far from my country as possible 😂
-- <s>Calisthenics because my local gym because is closed </s>
+- Calisthenics because my local gym because is closed
 
 ### ⚡ Fun fact: ...
-- I used to get beaten professionally but it was ok
+- I used to get beaten up professionally on national tv but it was ok because i wore a white suit and a brown belt
 
 
 ### 📫 Where to find me
