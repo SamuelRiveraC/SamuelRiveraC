@@ -24,7 +24,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Professional level Python (basic py can get you so far)
 
 ### 🤔 I’m looking for help with ...
-- Getting far from my country as possible 😂
+- Getting as far as possible from my country 😂
 - Calisthenics because my local gym because is closed
 
 ### ⚡ Fun fact: ...
