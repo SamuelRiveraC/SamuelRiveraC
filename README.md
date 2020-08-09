@@ -1,26 +1,47 @@
-<img src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_headline.png" alt="headline">
+<p align="center">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_headline.png" alt="headline">
+</p>
 
+<p>
 I am a Computer Systems Engineer working as a Freelancer since 2017. I've been working remotely with small business around US, Europe and South America, Delivering reliable solutions to what they need. 
 
-Since i've started working remote, i'm a very organized, autonomous and self motivated person to accomplish my tasks. And I had to develop a lot of skills related to sales, customer service, business management, digital marketing and more.
+Since i've always worked remote, i'm a very organized, autonomous and self motivated person to accomplish my tasks, specially because im passionate about creating practical solutions through designing useful interfaces and coding. Also I had to develop a lot of skills related to sales, customer service, business management, digital marketing and more.
 
-Want to know a little more of me?
+Since I am a coder my favourites technologies are Wordpress, Laravel and its JS cousin Adonis; Gatsby, and React and Vue (these pair do the same but I love front end). For a full list of technologies I know you should visit my <a href="https://www.samuelriverac.com/">portfolio</a> :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+When I'm not developing and building things, you can find me on Youtube learning, training at the gym <s> Damn you COVID lol </s>, learning languages, watching anime, playing videogames or worldbuilding my power fantasies 😂.
+</p>
 
 
+### Want to know a little more of me?
+
+### 💻 What am currently working on
+- Developing a branding strategy, along sales and marketing campaign
+- <a href="https://consiglidiunavvocato.it/">An Italian law blog</a> (Maintenance and WP plugin development)
+- A project with a friend (No brand yet!)
+
+### 💬 Ask me about ...
+- About history and philosophy
+### 📖 What am currently learning ...
+- More advanced topics with React
+- Tensorflow (AI is interasting and useful!)
+- Professional level Python (basic py can get you so far)
+
+### 🤔 I’m looking for help with ...
+- Getting far from my country as possible 😂
+- <s>Calisthenics because my local gym because is closed </s>
+
+### ⚡ Fun fact: ...
+- I used to get beaten professionally but it was ok
+
+
+### 📫 Where to find me
 <p align="center">
 	<a href="https://www.samuelriverac.com/">
-		<img alt="Website" src="https://img.shields.io/badge/www.samuelriverac.com-b12025?style=flat-square&logo=google-chrome&logoColor=white">
+		<img alt="Website" src="https://img.shields.io/badge/samuelriverac.com-b12025?style=flat-square&logo=google-chrome&logoColor=white">
 	</a>
 	<a href="https://www.linkedin.com/in/samuelriverac/">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SamuelRiveraC-b12025?style=flat-square&logo=linkedin&logoColor=white">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/SamuelRiveraC-b12025?style=flat-square&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://www.instagram.com/riverasr/">
 		<img alt="Instagram" src="https://img.shields.io/badge/riverasr-b12025?style=flat-square&logo=instagram&logoColor=white">
@@ -31,4 +52,6 @@ Want to know a little more of me?
 </p>
 
 
-<img src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_footer.png" alt="footer">
+<p align="center">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_footer.png" alt="footer">
+</p>
