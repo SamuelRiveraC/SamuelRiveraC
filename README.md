@@ -3,11 +3,11 @@
 </p>
 
 <p>
-I am a Computer Systems Engineer working as a Freelancer since 2017. I've been working remotely with small business around US, Europe and South America. Since i've always worked remote, i'm a very organized, autonomous and self motivated person to accomplish my tasks, specially because im passionate about creating practical solutions through designing useful interfaces and coding. Also I had to develop a lot of skills related to sales, customer service, business management, digital marketing and more.
+I am a Computer Systems Engineer working as a Freelancer since 2017. I've been working remotely with small businesses around the US, Europe, and South America. Since I've always worked remotely, I'm a very organized, autonomous, and self-motivated person to accomplish my tasks, especially because I'm passionate about creating practical solutions through designing user interfaces and coding. Also, I had to develop a lot of skills related to sales, customer service, business management, digital marketing, and more.
 
-Since I am a developer my favourites technologies are Wordpress, Laravel and its JS cousin Adonis; Gatsby, and React and Vue (this pair do the same but I love both). For a full list of technologies I know, you should visit my <a href="https://www.samuelriverac.com/">portfolio</a> :)
+Since I am a developer my favorites technologies are WordPress, Laravel and, its JS cousin Adonis; Gatsby, and React and Vue (these pairs do the same but I love both). For a full list of technologies I know, you should visit my portfolio :)
 
-When I'm not developing and building things, you can find me on Youtube learning, training at the gym <s> Damn you COVID lol </s>, learning languages, watching anime, playing videogames or worldbuilding my power fantasies 😂.
+When I'm not developing and building things, you can find me on Youtube learning, training at the gym Damn you COVID lol, learning languages, watching anime, playing videogames, or worldbuilding my power fantasies 😂.
 </p>
 
 
