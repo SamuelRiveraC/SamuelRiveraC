@@ -7,7 +7,7 @@ I am a Computer Systems Engineer working as a Freelancer since 2017. I've been w
 
 My favorites technologies are WordPress, Laravel and, its JS cousin Adonis; Gatsby, and React and Vue (these pairs do the same but I love both). For a full list of technologies I know, you should visit my portfolio :)
 
-When I'm not developing and building things, you can find me on Youtube learning, training at the gym Damn you COVID lol, learning languages, watching anime, playing videogames, or worldbuilding my power fantasies 😂.
+When I'm not developing and building things, you can find me on Youtube learning, training at the gym <s>Damn you COVID lol</s>, learning languages, watching anime, playing videogames, or worldbuilding my power fantasies 😂.
 </p>
 
 
