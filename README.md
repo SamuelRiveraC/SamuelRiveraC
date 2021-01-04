@@ -14,9 +14,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### Want to know a little more of me?
 
 ### 💻 What am currently working on
-- Developing a branding strategy, along sales and marketing campaign
-- <a href="https://consiglidiunavvocato.it/">An Italian law blog</a> (Maintenance and WP plugin development)
-- A project with a friend (No brand yet!)
+- Developing a couple of Wordpress sites
+- Designing the UI of an Mobile App
 
 ### 📖 What am currently learning ...
 - More advanced topics with React
@@ -24,8 +23,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Professional level Python (basic py can get you so far)
 
 ### 🤔 I’m looking for help with ...
-- Getting as far as possible from my country 😂
-- Calisthenics because my local gym because is closed
+- Getting as far as possible from my home country 😂
 
 ### ⚡ Fun fact: ...
 - I used to get beaten up professionally on national tv but it was ok because i wore a white suit and a brown belt
