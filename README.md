@@ -5,7 +5,7 @@
 <p>
 I am a Computer Systems Engineer working as a Freelancer since 2017. I've been working remotely with small businesses around the US, Europe, and South America. Since I've always worked remotely, I'm a very organized, autonomous, and self-motivated person to accomplish my tasks, especially because I'm passionate about creating practical solutions through designing user interfaces and coding. Also, I had to develop a lot of skills related to sales, customer service, business management, digital marketing, and more.
 
-My favorites technologies are WordPress, Laravel and, its JS cousin Adonis; Gatsby, and React and Vue (these pairs do the same but I love both). For a full list of technologies I know, you should visit my portfolio :)
+My favorites technologies are WordPress, Laravel and, its JS cousin Adonis; Gatsby, React and Vue (these two do the same but I like them both). For a full list of technologies I know, you should visit my portfolio :)
 
 When I'm not developing and building things, you can find me on Youtube learning, training at the gym <s>Damn you COVID lol</s>, learning languages, watching anime, playing videogames, or worldbuilding my power fantasies 😂.
 </p>
@@ -14,13 +14,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### Want to know a little more of me?
 
 ### 💻 What am currently working on
-- Developing a couple of Wordpress sites
-- Designing the UI of an Mobile App
+- Creating a Fintech MVP
 
 ### 📖 What am currently learning ...
 - More advanced topics with React
-- Tensorflow (AI is interasting and useful!)
-- Professional level Python (basic py can get you so far)
 
 ### 🤔 I’m looking for help with ...
 - Getting as far as possible from my home country 😂
