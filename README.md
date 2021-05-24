@@ -14,13 +14,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### Want to know a little more of me?
 
 ### 💻 What am currently working on
-- Creating a Fintech MVP
+- Creating an job board for italian lawyers in Wordpress (Intended as a MVP)
+- Digital Marketing agency website
+
 
 ### 📖 What am currently learning ...
 - More advanced topics with React
-
-### 🤔 I’m looking for help with ...
-- Getting as far as possible from my home country 😂
 
 ### ⚡ Fun fact: ...
 - I used to get beaten up professionally on national tv but it was ok because i wore a white suit and a brown belt
