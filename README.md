@@ -14,7 +14,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### Want to know a little more of me?
 
 ### 💻 What am currently working on
-- Creating an job board for italian lawyers in Wordpress
+- Developing an job board for italian lawyers in Wordpress
+- Developing a Pet advertisement board in React & Firebase
+- Developing a venezuelan marketplace between users and speakers or teachers of courses
 
 ### 📖 What am currently learning ...
 - More advanced topics with React
