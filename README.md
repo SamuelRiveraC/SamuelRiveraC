@@ -14,12 +14,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### Want to know a little more of me?
 
 ### 💻 What am currently working on
-- Developing an job board for italian lawyers in Wordpress
-- Developing a Pet advertisement board in React & Firebase
-- Developing a venezuelan marketplace between users and speakers or teachers of courses
+- A secret desktop application
+- A Digital Marketing site
+- A web application for physicians
+
 
 ### 📖 What am currently learning ...
 - More advanced topics with React
+- Photography course ~~unrelevant i know lol!
 
 ### ⚡ Fun fact: ...
 - I used to get beaten up professionally on national tv but it was ok because i wore a white suit and a brown belt
