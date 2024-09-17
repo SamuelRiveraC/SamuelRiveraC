@@ -1,31 +1,12 @@
-<p align="center">
-<img align="center" width="100%" src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_headline.png" alt="headline">
-</p>
-
 <p>
-I am a Computer Systems Engineer working as a Freelancer since 2017. I've been working remotely with small businesses around the US, Europe, and South America. Since I've mostly worked remotely, I'm a very organized, autonomous, and self-motivated person to accomplish my tasks, especially because I'm passionate about creating practical solutions through designing user interfaces and coding. Also, I had to develop a lot of skills related to sales, customer service, business management, digital marketing and more, to get clients and show my brand and help my clients with theirs.
+Hi, I'm a Software Engineer, and I've been working remotely with businesses across the US and Spain since 2017. I focus on creating simple, user-friendly solutions through design and code. I believe tech should be intuitive and reliable, which is why I love working with different technologies like WordPress, Laravel, Vue, Nuxt, Tailwind, etc.
 
-My favorites technologies are WordPress, Laravel and, its JS cousin Adonis; Gatsby, React, and Vue (these two do the same but I like them both). For a full list of technologies I know, you should visit my portfolio :)
+Before diving into any problem, I think about the best solution so I can deliver quality results from the start with minimal effort. I value trust and autonomy in my work, and I enjoy being in environments where I can take ownership and bring value to the table without unnecessary complexity.
 
-When I'm not developing and building things, you can find me on Youtube learning, training at the gym, learning languages, watching anime, playing video games, or worldbuilding 😂.
+Though I'm currently working in an office, I know the power of flexibility. Remote work has always given me the freedom to stay focused on my professional goals while balancing personal passions. Outside of work, you can find me learning, exploring new languages, or working out, all while keeping an eye on my next project... even if my next project is to finish my world conquest in a videogame LOL or planning a wonderful trip with my lovely Wife :)
+
+If you're looking for someone who’s committed to creating practical, simple, and effective solutions, let's connect!
 </p>
-
-
-### Want to know a little more of me?
-
-### 💻 What am currently working on
-- A secret desktop application
-- A Digital Marketing site
-- A web application for physicians
-
-
-### 📖 What am currently learning ...
-- More advanced topics with React
-- Photography course ~~unrelevant i know lol!
-
-### ⚡ Fun fact: ...
-- I used to get beaten up professionally on national tv but it was ok because i wore a white suit and a brown belt
-
 
 ### 📫 Where to find me
 <p align="center">
@@ -38,8 +19,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 	<a href="mailto:samuelrivera64@gmail.com">
 		<img alt="Email" src="https://img.shields.io/badge/samuelrivera64@gmail.com-b12025?style=flat-square&logo=gmail&logoColor=white">
 	</a>
-</p>
-
-<p align="center">
-<img align="center" width="100%" src="https://raw.githubusercontent.com/SamuelRiveraC/SamuelRiveraC/master/github_footer.png" alt="footer">
 </p>
